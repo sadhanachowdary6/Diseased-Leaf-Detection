@@ -1,0 +1,14 @@
+PLANT LEAF DISEASE DETECTION(TOMATO)
+ 
+I have done this assignment in google colab as my jupyter notebook is not able work with tensor flow and its functions(my laptop is mac book).
+This project is basically to predict an image of a leaf whether the leaf is healthy or not with the following names virus, infected etc.
+For this i have imported a dataset from kaggle .
+I have used CNN Model.
+I have used the following libraries to train and test the model
+Tensorflow
+Keras
+numpy 
+pandas 
+matplotlib
+I have mostly used keras sub libraries such as Image Data Generator,Load image ,image_to_array
+The model i have chosen is VGG19 for training and testing.
